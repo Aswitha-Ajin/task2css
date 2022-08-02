@@ -1,0 +1,51 @@
+.let{
+color: red;
+}
+.last{
+
+  position:relative; left:185px; top:-18px;
+}
+.fa{
+  color:orange;
+}
+.survey1{
+ 
+  position:relative; left:190px; top:2px;
+  word-spacing: 190px;
+ 
+}
+.survey2{
+ 
+  position:relative; left:190px; top:2px;
+  word-spacing: 210px;
+ 
+}
+.list {
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  position:relative; left:110px; top:-75px;
+}
+
+.id{
+  height: 100px;
+  width: 800px;
+}
+.pur{
+  background-color: beige;
+}
+.ser{
+  background-color: white;
+}
+.co{
+  background-color: beige;
+}
+.buy{
+  background-color: beige;
+}
+.pro{
+  background-color:white;
+}
+.rec{
+
+background-color: beige;
+}
